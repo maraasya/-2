@@ -47,7 +47,7 @@ body {
     z-index: -3;
 
     background-image:
-        url(photo.jpg");
+        url("photo.jpg");
 
     background-size: cover;
 
